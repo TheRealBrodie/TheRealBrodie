@@ -1,2 +1,2 @@
 # Welcome
-![Brodie](350.png)
+![Brodie](350.jpg)
